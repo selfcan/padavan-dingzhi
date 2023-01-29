@@ -5,4 +5,4 @@
 ##################################################################
 
 CFLAGS += -DBOARD_HC5861
-BOARD_NUM_USB_PORTS=2
+BOARD_NUM_USB_PORTS=1
